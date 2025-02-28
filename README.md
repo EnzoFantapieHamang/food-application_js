@@ -1,6 +1,6 @@
 # Food Application
 
- Food Application est une petite application Javascript qui permet de rechercher des repas via une API.
+ Food Application is a little application allowing you to seek recipes through an API if you want to cook for example.
 
 ## Installation
 
